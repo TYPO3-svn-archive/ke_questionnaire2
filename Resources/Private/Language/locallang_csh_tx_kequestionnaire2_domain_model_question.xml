@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+    <meta type="array">
+        <description>Ontext Sensitive Help (CSH) for table tx_kequestionnaire2_domain_model_question</description>
+        <type>CSH</type>
+        <csh_table>tx_kequestionnaire2_domain_model_question</csh_table>
+    </meta>
+    <data type="array">
+        <languageKey index="default" type="array">
+			<label index="type.description">question type</label>
+			<label index="title.description">title</label>
+			<label index="show_title.description">show title</label>
+			<label index="text.description">text</label>
+			<label index="helptext.description">helptext</label>
+			<label index="image.description">image</label>
+			<label index="image_position.description">image_position</label>
+			<label index="mandatory.description">mandatory</label>
+			<label index="mandatory_correct.description">mandatory_correct</label>
+			<label index="time.description">time</label>
+			<label index="dependant_show.description">dependant_show</label>
+			<label index="open_type.description">open_type</label>
+			<label index="open_pre_text.description">open_pre_text</label>
+			<label index="open_in_text.description">open_in_text</label>
+			<label index="open_post_text.description">open_post_text</label>
+			<label index="open_validation.description">open_validation</label>
+			<label index="open_validation_text.description">open_validation_text</label>
+			<label index="closed_type.description">closed_type</label>
+			<label index="closed_selectsize.description">closed_selectsize</label>
+			<label index="closed_maxanswers.description">closed_maxanswers</label>
+			<label index="closed_randomanswers.description">closed_randomanswers</label>
+			<label index="closed_inputfield.description">closed_inputfield</label>
+			<label index="matrix_type.description">matrix_type</label>
+			<label index="matrix_validation.description">matrix_validation</label>
+			<label index="matrix_maxanswers.description">matrix_maxanswers</label>
+			<label index="matrix_inputfield.description">matrix_inputfield</label>
+			<label index="demographic_type.description">demographic_type</label>
+			<label index="demographic_fields.description">demographic_fields</label>
+			<label index="demographic_addressfields.description">demographic_addressfields</label>
+			<label index="privacy_post.description">privacy_post</label>
+			<label index="privacy_link.description">privacy_link</label>
+			<label index="privacy_file.description">privacy_file</label>
+			<label index="type.description">question type</label>
+			<label index="dependancy_simple.description">dependancy_simple</label>
+			<label index="answers.description">answers</label>
+			<label index="columns.description">columns</label>
+			<label index="subquestions.description">subquestions</label>
+			<label index="sublines.description">sublines</label>
+		</languageKey>
+    </data>
+</T3locallang>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'ke_questionnaire2'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tx_kequestionnaire2_domain_model_question">Question</label>
+			<label index="tx_kequestionnaire2_domain_model_question.type">Type</label>
+			<label index="tx_kequestionnaire2_domain_model_question.title">Title</label>
+			<label index="tx_kequestionnaire2_domain_model_question.show_title">Show Title</label>
+			<label index="tx_kequestionnaire2_domain_model_question.text">Text</label>
+			<label index="tx_kequestionnaire2_domain_model_question.helptext">Helptext</label>
+			<label index="tx_kequestionnaire2_domain_model_question.image">Image</label>
+			<label index="tx_kequestionnaire2_domain_model_question.image_position">Image Position</label>
+			<label index="tx_kequestionnaire2_domain_model_question.mandatory">Mandatory</label>
+			<label index="tx_kequestionnaire2_domain_model_question.mandatory_correct">Mandatory Correct</label>
+			<label index="tx_kequestionnaire2_domain_model_question.time">Time</label>
+			<label index="tx_kequestionnaire2_domain_model_question.dependant_show">Dependant Show</label>
+			<label index="tx_kequestionnaire2_domain_model_question.open_type">Open Type</label>
+			<label index="tx_kequestionnaire2_domain_model_question.open_pre_text">Open Pre Text</label>
+			<label index="tx_kequestionnaire2_domain_model_question.open_in_text">Open In Text</label>
+			<label index="tx_kequestionnaire2_domain_model_question.open_post_text">Open Post Text</label>
+			<label index="tx_kequestionnaire2_domain_model_question.open_validation">Open Validation</label>
+			<label index="tx_kequestionnaire2_domain_model_question.open_validation_text">Open Validation Text</label>
+			<label index="tx_kequestionnaire2_domain_model_question.closed_type">Closed Type</label>
+			<label index="tx_kequestionnaire2_domain_model_question.closed_selectsize">Closed Selectsize</label>
+			<label index="tx_kequestionnaire2_domain_model_question.closed_maxanswers">Closed Maxanswers</label>
+			<label index="tx_kequestionnaire2_domain_model_question.closed_randomanswers">Closed Randomanswers</label>
+			<label index="tx_kequestionnaire2_domain_model_question.closed_inputfield">Closed Inputfield</label>
+			<label index="tx_kequestionnaire2_domain_model_question.matrix_type">Matrix Type</label>
+			<label index="tx_kequestionnaire2_domain_model_question.matrix_validation">Matrix Validation</label>
+			<label index="tx_kequestionnaire2_domain_model_question.matrix_maxanswers">Matrix Maxanswers</label>
+			<label index="tx_kequestionnaire2_domain_model_question.matrix_inputfield">Matrix Inputfield</label>
+			<label index="tx_kequestionnaire2_domain_model_question.demographic_type">Demographic Type</label>
+			<label index="tx_kequestionnaire2_domain_model_question.demographic_fields">Demographic Fields</label>
+			<label index="tx_kequestionnaire2_domain_model_question.demographic_addressfields">Demographic Addressfields</label>
+			<label index="tx_kequestionnaire2_domain_model_question.privacy_post">Privacy Post</label>
+			<label index="tx_kequestionnaire2_domain_model_question.privacy_link">Privacy Link</label>
+			<label index="tx_kequestionnaire2_domain_model_question.privacy_file">Privacy File</label>
+			<label index="tx_kequestionnaire2_domain_model_question.type">Type</label>
+			<label index="tx_kequestionnaire2_domain_model_question.dependancy_simple">Dependancy Simple</label>
+			<label index="tx_kequestionnaire2_domain_model_question.answers">Answers</label>
+			<label index="tx_kequestionnaire2_domain_model_question.columns">Columns</label>
+			<label index="tx_kequestionnaire2_domain_model_question.subquestions">Subquestions</label>
+			<label index="tx_kequestionnaire2_domain_model_question.sublines">Sublines</label>
+			<label index="tx_kequestionnaire2_domain_model_answer">Answer</label>
+			<label index="tx_kequestionnaire2_domain_model_answer.title">Title</label>
+			<label index="tx_kequestionnaire2_domain_model_answer.value">Value</label>
+			<label index="tx_kequestionnaire2_domain_model_answer.correct_answer">Correct Answer</label>
+			<label index="tx_kequestionnaire2_domain_model_answer.text">Text</label>
+			<label index="tx_kequestionnaire2_domain_model_answer.helptext">Helptext</label>
+			<label index="tx_kequestionnaire2_domain_model_answer.image">Image</label>
+			<label index="tx_kequestionnaire2_domain_model_answer.image_position">Image Position</label>
+			<label index="tx_kequestionnaire2_domain_model_answer.finish_page_uid">Finish Page Uid</label>
+			<label index="tx_kequestionnaire2_domain_model_answer.show_input">Show Input</label>
+			<label index="tx_kequestionnaire2_domain_model_column">Column</label>
+			<label index="tx_kequestionnaire2_domain_model_column.title">Title</label>
+			<label index="tx_kequestionnaire2_domain_model_column.different_type">Different Type</label>
+			<label index="tx_kequestionnaire2_domain_model_column.maxanswers">Maxanswers</label>
+			<label index="tx_kequestionnaire2_domain_model_column.image">Image</label>
+			<label index="tx_kequestionnaire2_domain_model_column.image_position">Image Position</label>
+			<label index="tx_kequestionnaire2_domain_model_subquestion">Subquestion</label>
+			<label index="tx_kequestionnaire2_domain_model_subquestion.title_line">Title Line</label>
+			<label index="tx_kequestionnaire2_domain_model_subquestion.title">Title</label>
+			<label index="tx_kequestionnaire2_domain_model_subquestion.text">Text</label>
+			<label index="tx_kequestionnaire2_domain_model_subquestion.image">Image</label>
+			<label index="tx_kequestionnaire2_domain_model_subquestion.image_position">Image Position</label>
+			<label index="tx_kequestionnaire2_domain_model_subline">Subline</label>
+			<label index="tx_kequestionnaire2_domain_model_subline.start">Start</label>
+			<label index="tx_kequestionnaire2_domain_model_subline.end">End</label>
+			<label index="tx_kequestionnaire2_domain_model_dependancy">Dependancy</label>
+			<label index="tx_kequestionnaire2_domain_model_dependancy.activating_formula">Activating Formula</label>
+			<label index="tx_kequestionnaire2_domain_model_dependancy.dependant_question">Dependant Question</label>
+			<label index="tx_kequestionnaire2_domain_model_dependancy.activating_question">Activating Question</label>
+			<label index="tx_kequestionnaire2_domain_model_dependancy.activating_value">Activating Value</label>
+			<label index="tx_kequestionnaire2_domain_model_outcome">Outcome</label>
+			<label index="tx_kequestionnaire2_domain_model_outcome.title">Title</label>
+			<label index="tx_kequestionnaire2_domain_model_outcome.value_start">Value Start</label>
+			<label index="tx_kequestionnaire2_domain_model_outcome.value_end">Value End</label>
+			<label index="tx_kequestionnaire2_domain_model_outcome.text">Text</label>
+			<label index="tx_kequestionnaire2_domain_model_outcome.image">Image</label>
+			<label index="tx_kequestionnaire2_domain_model_outcome.image_position">Image Position</label>
+			<label index="tx_kequestionnaire2_domain_model_authcode">Authcode</label>
+			<label index="tx_kequestionnaire2_domain_model_authcode.qpid">Qpid</label>
+			<label index="tx_kequestionnaire2_domain_model_authcode.authcode">Authcode</label>
+			<label index="tx_kequestionnaire2_domain_model_authcode.email">Email</label>
+			<label index="tx_kequestionnaire2_domain_model_authcode.feuser">Feuser</label>
+			<label index="tx_kequestionnaire2_domain_model_result">Result</label>
+			<label index="tx_kequestionnaire2_domain_model_result.start_tstamp">Start Tstamp</label>
+			<label index="tx_kequestionnaire2_domain_model_result.last_tstamp">Last Tstamp</label>
+			<label index="tx_kequestionnaire2_domain_model_result.finished_tstamp">Finished Tstamp</label>
+			<label index="tx_kequestionnaire2_domain_model_result.xmldata">Xmldata</label>
+			<label index="tx_kequestionnaire2_domain_model_result.ip">Ip</label>
+			<label index="tx_kequestionnaire2_domain_model_result.mailsent_tstamp">Mailsent Tstamp</label>
+			<label index="tx_kequestionnaire2_domain_model_result.auth">Auth</label>
+		</languageKey>
+	</data>
+</T3locallang>
